@@ -1,0 +1,7 @@
+restaurant name
+description
+veg
+Non veg
+disclaimer
+signature
+
